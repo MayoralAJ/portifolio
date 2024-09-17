@@ -25,7 +25,7 @@
 
 .hero-device{
     display: block;
-    max-width: min(100%, 80rem);
+    max-width: min(100%, 100rem);
     height: auto;
     margin: auto;
 }
